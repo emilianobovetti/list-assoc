@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "elm-test",
+    "docs": "elm make --docs=docs.json"
+  },
+  "dependencies": {
+    "elm": "^0.19.1-5",
+    "elm-test": "^0.19.1-revision6"
+  }
+}
